@@ -11,7 +11,7 @@ public class DAALABP1 {
         }
         return -1;
     }
-    public static void selectionSort(int a[], int key){
+    public static void selectionSort(int a[]){
 
         for(int i =0 ; i<a.length ; i++){
             int p=i;
@@ -44,7 +44,7 @@ public class DAALABP1 {
             System.out.println("Key not found" );
         }
         System.out.println("Number of basic operations for searching is : "+searchCount);
-        selectionSort(a, key);
+        selectionSort(a);
         System.out.println("Sorted numbers are");
         for(int i=0 ; i<5 ; i++) System.out.println(a[i]);
         System.out.println("Number of basic operations for sorting is : "+sortCount);
