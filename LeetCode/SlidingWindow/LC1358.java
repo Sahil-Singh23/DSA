@@ -2,33 +2,44 @@ package DSA.DSA.LeetCode.SlidingWindow;
 
 public class LC1358 {
     public int numberOfSubstrings(String s) {
-        int left = 0;
-        int count = 0;
-        int a = 0, b = 0, c = 0;
+        // int left = 0;
+        // int count = 0;
+        // int a = 0, b = 0, c = 0;
         
-        for (int i = 0; i < s.length(); i++) {
-            char x = s.charAt(i);
-            if (x == 'a') a++;
-            else if (x == 'b') b++;
-            else c++;
+        // for (int i = 0; i < s.length(); i++) {
+        //     char x = s.charAt(i);
+        //     if (x == 'a') a++;
+        //     else if (x == 'b') b++;
+        //     else c++;
             
-            if (a >= 1 && b >= 1 && c >= 1) {
-                count += s.length() - i;
-            }
+        //     if (a >= 1 && b >= 1 && c >= 1) {
+        //         count += s.length() - i;
+        //     }
             
-            while (a >= 1 && b >= 1 && c >= 1) {
-                x = s.charAt(left);
-                if (x == 'a') a--;
-                else if (x == 'b') b--;
-                else c--;
+        //     while (a >= 1 && b >= 1 && c >= 1) {
+        //         x = s.charAt(left);
+        //         if (x == 'a') a--;
+        //         else if (x == 'b') b--;
+        //         else c--;
                 
-                if (a >= 1 && b >= 1 && c >= 1) {
-                    count += s.length() - i;
-                }
-                left++;
-            }
-        }
-        return count;
+        //         if (a >= 1 && b >= 1 && c >= 1) {
+        //             count += s.length() - i;
+        //         }
+        //         left++;
+        //     }
+        // }
+        // return count;
+        int count=0;
+        int a=-1;
+        int b=-1;
+        int c=-1;
+        for(int i=0 ; i<s.length() ; i++){
+            char x = s.charAt(i);
+            if(x=='a') a=i;
+            else if(x=='b') b=i;
+            else c=i;
+            count+= Math.min(c,(Math.min(a,b)))+1;
+        }return count;
     }
     
     public static void main(String[] args) {
