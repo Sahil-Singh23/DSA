@@ -1,0 +1,8 @@
+there are 4 types of sliding windown problems
+
+1) constant window size
+2) longest subarray/ substring where <condition>
+3) number of subarrays where <condition>
+(usually where sum=x)
+(to identify it has, no fixed way to shirnk the left... so we break the problem where we find number of subarrays where sum<=x and sum<=x-1 and subtract the two)
+4) shortest/minimum window
