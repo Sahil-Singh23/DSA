@@ -1,0 +1,4 @@
+ 
+1. number of nodes if level = i, 2^i-1
+where i starts from 1
+
