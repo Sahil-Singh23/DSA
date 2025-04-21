@@ -1,4 +1,4 @@
-package DSA.DSA.LeetCode.Heap;
+package DSA.LeetCode.Heap;
 
 import java.util.PriorityQueue;
 

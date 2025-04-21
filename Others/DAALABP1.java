@@ -1,4 +1,4 @@
-package DSA.DSA.Others;
+package DSA.Others;
 import java.util.Random;
 import java.util.Scanner;
 public class DAALABP1 {

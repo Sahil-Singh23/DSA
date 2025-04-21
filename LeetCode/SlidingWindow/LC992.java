@@ -1,4 +1,4 @@
-package DSA.DSA.LeetCode.SlidingWindow;
+package DSA.LeetCode.SlidingWindow;
 
 // Time: O(n), Space: O(n)
 

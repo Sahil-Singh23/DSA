@@ -1,4 +1,4 @@
-package DSA.DSA.Others;
+package DSA.Others;
 import java.util.Scanner;
 import java.util.Random;
 public class QuickSortP2 {
@@ -41,7 +41,7 @@ public class QuickSortP2 {
         int[] a = new int[n];
         for(int i=0 ; i<n ; i++) a[i]=r.nextInt(10000);
         quickSort(0,n-1,a);
-        System.out.println("Soreted elements are: ");
+        System.out.println("Sorted elements are: ");
         for(int i=0 ; i< 10 ; i++) System.out.print(a[i]+" ");
         System.out.println("\nBest case : "+(int)(n*Math.log(n)/Math.log(2)));
         System.out.println("No of basic operations "+count);

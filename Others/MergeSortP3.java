@@ -1,4 +1,4 @@
-package DSA.DSA.Others;
+package DSA.Others;
 import java.util.Scanner;
 import java.util.Random;
 public class MergeSortP3 {

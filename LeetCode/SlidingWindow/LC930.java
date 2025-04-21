@@ -1,4 +1,4 @@
-package DSA.DSA.LeetCode.SlidingWindow;
+package DSA.LeetCode.SlidingWindow;
 
 /*  
    The problem requires finding the number of subarrays with sum exactly equal to `goal`.  

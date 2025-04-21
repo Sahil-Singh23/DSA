@@ -1,4 +1,4 @@
-package DSA.DSA.LeetCode.BinarySearch;
+package DSA.LeetCode.BinarySearch;
 /*
  * Problem: Find the minimum element in a rotated sorted array (no duplicates)
  * LeetCode: 153. Find Minimum in Rotated Sorted Array

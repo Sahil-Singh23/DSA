@@ -1,4 +1,4 @@
-package DSA.DSA.LeetCode.Arrays;
+package DSA.LeetCode.Arrays;
 
 import java.util.HashSet;
 

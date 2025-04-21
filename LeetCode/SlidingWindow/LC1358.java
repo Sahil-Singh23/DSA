@@ -1,4 +1,4 @@
-package DSA.DSA.LeetCode.SlidingWindow;
+package DSA.LeetCode.SlidingWindow;
 
 public class LC1358 {
     public int numberOfSubstrings(String s) {

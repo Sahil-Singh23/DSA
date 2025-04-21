@@ -1,4 +1,4 @@
-package DSA.DSA.LeetCode.SlidingWindow;
+package DSA.LeetCode.SlidingWindow;
 
 public class LC424 {
     public static void main(String[] args) {

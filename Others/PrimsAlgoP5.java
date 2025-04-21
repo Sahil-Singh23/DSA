@@ -1,4 +1,4 @@
-package DSA.DSA.Others;
+package DSA.Others;
 import java.util.*;
 public class PrimsAlgoP5 {
     static void prims(int [][] c, int n, int source){
@@ -18,9 +18,9 @@ public class PrimsAlgoP5 {
                 }
             }
             System.out.println("Pipeline from city "+a+" city "+b+" with cost "+min+" units");
-        mincost+=min;
-        tvertex[b]=1;
-        ne++;
+            mincost+=min;
+            tvertex[b]=1;
+            ne++;
         }
         System.out.println("Cost of urban water supply "+mincost);
     }

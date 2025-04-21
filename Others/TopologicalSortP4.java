@@ -1,4 +1,4 @@
-package DSA.DSA.Others;
+package DSA.Others;
 import java.util.Scanner;
 public class TopologicalSortP4 {
     static int n;
