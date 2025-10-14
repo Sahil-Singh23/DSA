@@ -48,5 +48,6 @@ public class DAALABP1 {
         System.out.println("Sorted numbers are");
         for(int i=0 ; i<5 ; i++) System.out.println(a[i]);
         System.out.println("Number of basic operations for sorting is : "+sortCount);
+        sc.close();
     }
 }
