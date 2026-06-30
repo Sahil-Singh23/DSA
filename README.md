@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sahil-Singh23/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Sahil-Singh23/DSA/tree/master/0152-maximum-product-subarray) |
+| [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil-Singh23/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sahil-Singh23/DSA/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil-Singh23/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
