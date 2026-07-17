@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sahil-Singh23/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Sahil-Singh23/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Sahil-Singh23/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sahil-Singh23/DSA/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Sahil-Singh23/DSA/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil-Singh23/DSA/tree/master/0713-subarray-product-less-than-k) |
