@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahil-Singh23/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sahil-Singh23/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sahil-Singh23/DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Sahil-Singh23/DSA/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil-Singh23/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sahil-Singh23/DSA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Sahil-Singh23/DSA/tree/master/0441-arranging-coins) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sahil-Singh23/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
