@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Singh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Sahil-Singh23/DSA/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil-Singh23/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Singh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Singh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sahil-Singh23/DSA/tree/master/0006-zigzag-conversion) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
