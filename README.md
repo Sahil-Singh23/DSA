@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sahil-Singh23/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil-Singh23/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Singh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sahil-Singh23/DSA/tree/master/0049-group-anagrams) |
+| [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Singh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sahil-Singh23/DSA/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Sahil-Singh23/DSA/tree/master/0049-group-anagrams) |
+| [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahil-Singh23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Sahil-Singh23/DSA/tree/master/0670-maximum-swap) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
