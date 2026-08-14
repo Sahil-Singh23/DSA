@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sahil-Singh23/DSA/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil-Singh23/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sahil-Singh23/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sahil-Singh23/DSA/tree/master/0049-group-anagrams) |
 | [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sahil-Singh23/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sahil-Singh23/DSA/tree/master/0049-group-anagrams) |
 | [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sahil-Singh23/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
