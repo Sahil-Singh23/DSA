@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Sahil-Singh23/DSA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Sahil-Singh23/DSA/tree/master/0441-arranging-coins) |
+| [0670-maximum-swap](https://github.com/Sahil-Singh23/DSA/tree/master/0670-maximum-swap) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sahil-Singh23/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil-Singh23/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Sahil-Singh23/DSA/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
