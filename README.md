@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sahil-Singh23/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Sahil-Singh23/DSA/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sahil-Singh23/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sahil-Singh23/DSA/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/Sahil-Singh23/DSA/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/Sahil-Singh23/DSA/tree/master/0670-maximum-swap) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sahil-Singh23/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sahil-Singh23/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
