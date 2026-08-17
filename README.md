@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Singh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sahil-Singh23/DSA/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Sahil-Singh23/DSA/tree/master/0146-lru-cache) |
 | [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sahil-Singh23/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -138,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sahil-Singh23/DSA/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sahil-Singh23/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sahil-Singh23/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sahil-Singh23/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
