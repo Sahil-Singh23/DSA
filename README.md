@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sahil-Singh23/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Sahil-Singh23/DSA/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/Sahil-Singh23/DSA/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sahil-Singh23/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sahil-Singh23/DSA/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil-Singh23/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/Sahil-Singh23/DSA/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Singh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sahil-Singh23/DSA/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Sahil-Singh23/DSA/tree/master/0049-group-anagrams) |
+| [0647-palindromic-substrings](https://github.com/Sahil-Singh23/DSA/tree/master/0647-palindromic-substrings) |
 | [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sahil-Singh23/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
