@@ -92,19 +92,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sahil-Singh23/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahil-Singh23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sahil-Singh23/DSA/tree/master/0547-number-of-provinces) |
 | [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahil-Singh23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sahil-Singh23/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahil-Singh23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sahil-Singh23/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahil-Singh23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
