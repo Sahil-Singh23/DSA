@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sahil-Singh23/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sahil-Singh23/DSA/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Sahil-Singh23/DSA/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/Sahil-Singh23/DSA/tree/master/0257-binary-tree-paths) |
 | [0647-palindromic-substrings](https://github.com/Sahil-Singh23/DSA/tree/master/0647-palindromic-substrings) |
 | [0752-open-the-lock](https://github.com/Sahil-Singh23/DSA/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahil-Singh23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Sahil-Singh23/DSA/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Sahil-Singh23/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahil-Singh23/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sahil-Singh23/DSA/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Sahil-Singh23/DSA/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Sahil-Singh23/DSA/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Sahil-Singh23/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
